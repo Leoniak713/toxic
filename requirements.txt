@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+torchvision
+transformers
+scikit-learn
+nltk
+spacy
+jupyterlab
+plotly
